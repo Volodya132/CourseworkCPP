@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Date">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAIAAAAAAAAAAEQAAAEAAAAgABCAAAAAQgQAA=</HashCode>
+      <FileName>date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IKASAgAAACEQFAAAAAAAAAAAAAAIAAJAAAIACAAAAAA=</HashCode>
+      <FileName>exam.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GradeBook">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAIBAAIAAAAAAAIAAAAAABAAAAAAAAAQAAAE=</HashCode>
+      <FileName>gradebook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyVector&lt;T&gt;">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MyVector&lt;T&gt;::Iterator">
+        <TypeIdentifier>
+          <NewMemberFileName>MyVector.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AMEAAAECAIAAAACAAAAAIAAQAAAAAAAgAAgAAAAAAAA=</HashCode>
+      <FileName>MyVector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEYAgAgAAAFAAAAAAAAAAAAAQAAAIgAAAAAAA=</HashCode>
+      <FileName>student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEIAAAAAAAEAAAAAABABAgAACAAAIgAAAAAAA=</HashCode>
+      <FileName>teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
